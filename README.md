@@ -71,4 +71,4 @@ The result of the execution of the program is in the output file "saliday.txt"
 
 * **Camilo Sinning** - [CamiloSinningUN](https://github.com/CamiloSinningUN)
 
-See the list of all [contributors](https://github.com/CamiloSinningUN/Bienestar_familiar/contributors) who have participated in this project.
+See the list of all [contributors](https://github.com/CamiloSinningUN/SyntaxAnalyzer/contributors) who have participated in this project.
